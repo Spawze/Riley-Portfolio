@@ -14,7 +14,7 @@ You can view the published webpage [here](https://spawze.github.io/Riley-Portfol
 
 You can scroll to view the contents of the webpage, or you can use the links at the top of the webpage to instantly navigate to that section.
 
-![image of the horiseon landing page, text saying "instant navigation" pointing at the three navigation links at the top](assets/images/wow.png)
+![Image of the top of the webpage with the navigation links highlighted](assets/images/thing.png)
 
 
 ## Credits
