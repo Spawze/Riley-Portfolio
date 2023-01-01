@@ -10,11 +10,11 @@ Nothing special is needed to install. It's just an HTML, CSS, and some picture a
 
 ## Usage
 
-You can view the published webpage [here](https://spawze.github.io/JavaScript-Quiz/)  
+You can view the published webpage [here](https://spawze.github.io/Riley-Portfolio/)  
 
 You can scroll to view the contents of the webpage, or you can use the links at the top of the webpage to instantly navigate to that section.
 
-![Image of the top of the webpage with the navigation links highlighted](assets/images/screenshot.png)
+![Image of the top of the webpage with the navigation links highlighted](assets/images/thing.png)
 
 
 ## Credits
